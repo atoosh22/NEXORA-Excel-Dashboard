@@ -1,7 +1,7 @@
 # NEXORA Sales Dashboard
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img src="dashboard.png.png" alt="NEXORA Sales Dashboard" width="100%">
 
 ## Project Overview
 
