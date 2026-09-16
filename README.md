@@ -1,2 +1,32 @@
-# NEXORA-Excel-Dashboard
-Interactive Excel Sales Dashboard with Pivot Tables, Charts, and KPI Analysis.
+# NEXORA Sales Dashboard
+
+## Project Overview
+
+This project is an interactive Excel Sales Dashboard created using Microsoft Excel.
+
+## Features
+
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- KPI Cards
+- Sales Analysis Dashboard
+
+## Tools Used
+
+- Microsoft Excel 365
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+## Project File
+
+NEXORA_Sales_Dashboard.xlsx
+
+## Author
+
+Abdinasir Mohamed Nur
