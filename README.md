@@ -1,4 +1,7 @@
 # NEXORA Sales Dashboard
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ## Project Overview
 
@@ -19,9 +22,7 @@ This project is an interactive Excel Sales Dashboard created using Microsoft Exc
 - Pivot Charts
 - Dashboard Design
 
-## Dashboard Preview
 
-![Dashboard](dashboard.png)
 
 ## Project File
 
